@@ -1,0 +1,6 @@
+[submodule "microservice-1"]
+	path = microservice-1
+	url = https://github.com/EliDenisova/microservice-1.git
+[submodule "microservice-2"]
+	path = microservice-2
+	url = https://github.com/EliDenisova/microservice-2.git
